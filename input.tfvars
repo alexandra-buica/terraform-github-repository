@@ -1,6 +1,6 @@
 repo_name = "terraform-github-example"
-  repo_description = "Test"
-  repo_visibility = "public"
+repo_description = "Test"
+repo_visibility = "public"
 
   # Added teams to the repository in question
 repo_teams = [
